@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1604715755 source:c:\users\floppy\documents\cbprojs\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1604887035 source:c:\users\floppy\documents\cb\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1605020866 source:c:\users\floppy\documents\cb\course_work\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
